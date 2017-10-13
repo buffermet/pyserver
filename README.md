@@ -12,3 +12,5 @@ sudo chmod +x /usr/bin/pyserver
 ```
 sudo pyserver
 ```
+
+![screenshot from 2017-10-13 18-58-47](https://user-images.githubusercontent.com/29265684/31538338-959c3778-b048-11e7-8c57-17db9fdccad3.png)
