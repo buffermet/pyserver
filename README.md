@@ -10,7 +10,7 @@ sudo chmod +x /usr/bin/pyserver
 ## Deployment
 
 ```
-sudo pyserver 8000
+sudo pyserver <port>
 ```
 
 ![pyserver](https://user-images.githubusercontent.com/29265684/37338234-91e4eacc-2702-11e8-96f2-0898252dba92.png)
